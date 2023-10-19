@@ -26,7 +26,7 @@
  </div>
  <div align="center">
     <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/4a4da5e6-e6a2-4b6c-bbd9-f9650cf8fb95"/>
-    <img align="center" alt="crianla-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/5c9facd1-de46-480d-a01d-b4fce8907adf)"/>
+    <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/5c9facd1-de46-480d-a01d-b4fce8907adf"/>
  </div>
  </div><br/>
  
