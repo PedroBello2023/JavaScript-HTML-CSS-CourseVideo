@@ -1,0 +1,43 @@
+section {
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    background-color: white;
+    width: 500px;
+    margin: auto;
+}
+
+body{
+    background-color: aqua;
+}
+
+div#img {
+    padding: 50px;
+    text-align: center;
+}
+
+div#msg {
+    padding-top: 10px;
+    color: black;
+}
+
+div#res {
+    text-align: center;
+    color: black;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.644);
+}
+
+h1 {
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    text-align: center;
+}

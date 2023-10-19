@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="ex02.css">
+</head>
+<body>
+    <h1>Verificador de Idade</h1>
+    <section>
+        <div id="msg">
+            <p>Ano de nascimento: <input type="number" name="textano" id="textano"></p>
+            <p>Sexo:
+                <input type="radio" name="radsex" id="masc" checked>
+                <label for="masc">Masculino</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Femnino</label>
+            </p>
+                <input type="button" value = "verificar" onclick = "verificar()">
+            </p>
+        </div>
+        <div id="res">
+            <h2>Preencha os dados acima:</h2>
+        </div>
+    </section>
+    <footer>
+        <p>&copy;pedrohenrique</p>
+    </footer>
+</body>
+<script src="ex02.js"></script>
+</html>
