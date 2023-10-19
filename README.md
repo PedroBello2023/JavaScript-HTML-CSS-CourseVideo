@@ -1,2 +1,7 @@
 # JavaScript-HTML-CSS-CourseVideo
- Anotações das aulas, Exercícios e Projetos feitos no curso de JavaScript do Curso em Vídeo, misnistrado pelo professor Gustavo Guanabara.
+ Class notes, Exercises and Projects made in the JavaScript course of the Video Course, taught by professor Gustavo Guanabara. Thank You for viewing my projects.
+
+ ## Exercise 01):
+ Creation of a website with JavaScript that changed the image and color according to the time of day.
+
+ 
