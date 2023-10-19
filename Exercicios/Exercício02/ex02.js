@@ -24,7 +24,7 @@ function verificar() {
                 img.setAttribute('src', 'homem-adulto.png')
             } else {
                 //idoso
-                img.setAttribute('src', 'cemigsaude_cemigsaude_image_996-780x450.png')
+                img.setAttribute('src', 'homem-idoso.png')
             }
         } else if (sexo[1].checked) {
             genero = 'Mulher'
@@ -33,13 +33,13 @@ function verificar() {
                 img.setAttribute('src', 'mulher-crianca.png')
             } else if (idade <= 20) {
                 //jovem
-                img.setAttribute('src', '5628-PS23RQIPKCDbpdPs-s-.png')
+                img.setAttribute('src', 'mulher-jovem.png')
             } else if (idade <= 50){
                 //adulto
-                img.setAttribute('src', 'mulher_adulta.png')
+                img.setAttribute('src', 'mulher-adulta.png')
             } else{
                 //idoso
-                img.setAttribute('src', 'mulher_idosa.png')
+                img.setAttribute('src', 'mulher-idosa.png')
             }
         }
         resultado.innerHTML = `Detectamos ${genero} com ${idade} anos de idade.`
