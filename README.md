@@ -4,9 +4,9 @@
  ## Exercise 01):
  Creation of a website with JavaScript that changed the image and color according to the time of day. Below are three images related to three different times, they are: 9am, 3pm, 7pm;
  <div style="display: inline_block"><br/>
-    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/624c5650-88b0-472e-8abe-3bb5ec052a13" haight = "200px"/>
-    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/03714d7b-a42e-4eb0-841e-06864677fc13" width = "227px"/>
-    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/ff7528d1-ff1f-4354-9953-18d30d23b5f8" width = "233px"/>
+    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/2e594ecc-8f4b-486d-aa77-ede708dc3c55"/>
+    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/94831483-1825-406f-89b6-9b06a9eaafb4"/>
+    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/3293a5f1-59d9-4659-a2a2-562e33515ab8"/>
  </div><br/>
  
  ## Exercise 2):
