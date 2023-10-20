@@ -13,20 +13,20 @@
  Creation of a website that receives people's date of birth and gender and displays an image according to their age (also calculated by the program). Below we have, respectively, the program's response to the following situations: elderly (man), elderly (woman), adult (man), adult (woman), young (man), young(woman), child(man), child(woman).
  <div style="display: inline_block"><br/>
   <div align="center">
-    <img align="center" alt="idoso-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/b71e16f5-4d06-4e6b-972e-c2873d647ce4"/>
-    <img align="center" alt="idoso-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a511f91b-c711-4229-bcf0-13f892226584"/></br>
+    <img align="center" alt="idoso-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/6c378f83-328b-4a66-91b4-9c34cb6ba2eb" width = 300px/>
+    <img align="center" alt="idoso-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/715d022d-47fe-4753-abee-f02c9ba42e41" width = 300px/></br>
   </div>
   <div align="center">
-    <img align="center" alt="adulto-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/b0a2d78a-5d03-47a9-9c79-3c0db7ff54dd"/>
-    <img align="center" alt="adulto-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/6517a06f-a88e-4103-a8cd-775f5085ba63"/></br>
+    <img align="center" alt="adulto-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/e8d85cba-4272-42b3-ad31-0fc5548e9449" width = 300px/>
+    <img align="center" alt="adulto-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/3c577e2d-0d21-4122-8132-9a040ff17a7a" width = 300px/></br>
  </div>
  <div align="center">
-    <img align="center" alt="jovem-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f45a9371-c68a-4ef2-9a47-506b0df59dba"/>
-    <img align="center" alt="jovem-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/82993a52-68ca-4cde-9426-47a7d1fd016c"/></br>
+    <img align="center" alt="jovem-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/dbaf4e86-f3b3-4d0a-ad9d-9c6ce8fe7f12" width = 300px/>
+    <img align="center" alt="jovem-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/af7ba959-a039-4abf-99e6-6645f67a89da" width = 300px/></br>
  </div>
  <div align="center">
-    <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/4a4da5e6-e6a2-4b6c-bbd9-f9650cf8fb95"/>
-    <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/5c9facd1-de46-480d-a01d-b4fce8907adf"/>
+    <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/61418b70-bee5-42b1-9664-8265ca5b8b8f" width = 300px/>
+    <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/48d960db-8db1-40b0-a7a9-aee67f0cd99e" width = 300px/>
  </div>
  </div><br/>
  
