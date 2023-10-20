@@ -6,7 +6,7 @@
  <div style="display: inline_block"><br/>
     <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 320px/>
     <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 320px/>
-    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 322px/>
+    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 321.5px/>
  </div><br/>
  
  ## Exercise 2):
