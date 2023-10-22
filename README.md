@@ -4,9 +4,9 @@
  ## Exercise 01):
  Creation of a website with JavaScript that changed the image and color according to the time of day. Below are three images related to three different times, they are: 9am, 3pm, 7pm;
  <div style="display: inline_block"><br/>
-    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 320px/>
-    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 320px/>
-    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 321px/>
+    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 310px/>
+    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 310px/>
+    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 311px/>
  </div><br/>
  
  ## Exercise 2):
@@ -33,6 +33,8 @@
  In exercise three I made a website that receives numerical inputs and displays them according to the input start, end and the step between the start and end. The program uses the concepts of conditionals and loops. Simple programming but with important JavaScript topics.
   <div align="center">
     <img align="center" alt="contagem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/e79b7d39-e0c2-4141-b9fd-8e0727d68c4d" width = 800px/>
+  </div>
+   
  
 
 
