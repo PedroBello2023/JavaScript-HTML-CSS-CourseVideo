@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(44, 44, 212);
+}
+
+header {
+    text-align: center;
+    color: white;
+    paint-order: 10px;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589);
+}
+
+section {
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
+    border-radius: 5px;
+    width: 500px;
+    background-color: white;
+    padding: 10px;
+}
+
+footer {
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.589);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
