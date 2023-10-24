@@ -4,9 +4,9 @@
  ## Exercise 01):
  Creation of a website with JavaScript that changed the image and color according to the time of day. Below are three images related to three different times, they are: 9am, 3pm, 7pm;
  <div style="display: inline_block"><br/>
-    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 320px/>
-    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 320px/>
-    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 321px/>
+    <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 250px/>
+    <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 250px/>
+    <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 251px/>
  </div><br/>
  
  ## Exercise 2):
@@ -28,7 +28,13 @@
     <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/61418b70-bee5-42b1-9664-8265ca5b8b8f" width = 300px/>
     <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/48d960db-8db1-40b0-a7a9-aee67f0cd99e" width = 300px/>
  </div>
- </div><br/>
+
+ ## Exercise 3)
+ In exercise three I made a website that receives numerical inputs and displays them according to the input start, end and the step between the start and end. The program uses the concepts of conditionals and loops. Simple programming but with important JavaScript topics.
+  <div align="center">
+    <img align="center" alt="contagem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/e79b7d39-e0c2-4141-b9fd-8e0727d68c4d" width = 800px/>
+  </div>
+   
  
 
 
