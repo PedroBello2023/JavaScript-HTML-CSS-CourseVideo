@@ -34,8 +34,12 @@
   <div align="center">
     <img align="center" alt="contagem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/e79b7d39-e0c2-4141-b9fd-8e0727d68c4d" width = 800px/>
   </div>
-   
- 
+
+  ## Exercise 4)
+  In this exercise I created a program that received a value and displayed its multiplication table. The program works with JavaScript and is displayed on a web page using HTML and CSS.
+  <div align="center">
+    <img align="center" alt="tabuada" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/93c2691f-21d2-4ee1-9f19-5fe5fc1bcc37" width = 800px/>
+  </div>
 
 
 
