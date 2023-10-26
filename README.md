@@ -3,7 +3,7 @@
 
  ## Exercise 01):
  Creation of a website with JavaScript that changed the image and color according to the time of day. Below are three images related to three different times, they are: 9am, 3pm, 7pm;
- <div style="display: inline_block"><br/>
+ <div style="display: inline_block" align="center"><br/>
     <img align="center" alt="dia" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/1f4b620d-5d6b-49d5-be98-817eca0692e9" width = 250px/>
     <img align="center" alt="tarde" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/a3cc462a-f122-472e-8c74-c527ce83e753" width = 250px/>
     <img align="center" alt="noite" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/f3b83a17-bd27-4dcd-927c-1a2e8039d464" width = 251px/>
@@ -25,8 +25,8 @@
     <img align="center" alt="jovem-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/af7ba959-a039-4abf-99e6-6645f67a89da" width = 400px/></br>
  </div>
  <div align="center">
-    <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/61418b70-bee5-42b1-9664-8265ca5b8b8f" width = 300px/>
-    <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/48d960db-8db1-40b0-a7a9-aee67f0cd99e" width = 300px/>
+    <img align="center" alt="criança-homem" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/61418b70-bee5-42b1-9664-8265ca5b8b8f" width = 400px/>
+    <img align="center" alt="criança-mulher" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/48d960db-8db1-40b0-a7a9-aee67f0cd99e" width = 400px/>
  </div>
 
  ## Exercise 3)
