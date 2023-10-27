@@ -41,6 +41,13 @@
     <img align="center" alt="tabuada" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/93c2691f-21d2-4ee1-9f19-5fe5fc1bcc37" width = 800px/>
   </div>
 
+  ## Exercise 5)
+  In this exercise we created a more complete program where we receive values ​​and register them in an array and from there we perform a data analysis and filter the largest, smallest, sum, average, and quantity of values. The analyzed values ​​are from 1 to 100. If you enter a value outside the range or do not enter any value, it reports an error as shown in the second image.
+  <div align="center">
+    <img align="center" alt="Analisando Dados" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/34e08184-478f-4dfb-8205-356365023f70" width = 800px/>
+   <img align="center" alt="Analisando Dados" src="https://github.com/PedroBello2023/JavaScript-HTML-CSS-CourseVideo/assets/146886458/8a2b4fda-3994-47b9-b8c0-e778ad12ea09" width = 800px/>
+  </div>
+
 
 
  
